@@ -3,7 +3,6 @@ header{
 padding: 15px;
     
    
-    background-color:hsla(31, 7%, 53%, 0.63);
 
    
     width: 100%;
@@ -58,10 +57,9 @@ text-decoration: none;
 
 
 .minio{  display: inline-block;
-                    border: 2px solid white;
+                    border: 2px solid black;
 padding: 15px;
  
-	background-color: burlywood;
     margin-top: 5px;
     margin-left: 2%;
     margin-bottom: 5px;
