@@ -150,6 +150,7 @@ width: 100%;
     font-size: 80px;
 color: red;
     margin-left: 33%;
+    
 }
 #mid2 h2{  ;
     font-size:40px;
@@ -164,6 +165,7 @@ color: sandybrown;
 #mit1 ,#mit3{float: left;
 width: 30%;
         border: solid white 3px;
+  background-color: white;
 
 }
 #mit3{padding-bottom: 74px;
@@ -174,15 +176,17 @@ width: 32%;
 padding-bottom: 55px;
         margin-right: 10px;
         margin-left: 10px;
-       
+        background-color: white;
+
 
 }
-#menu h3{color: white;
+#menu h3{color: black;
 font: bold;
     text-align: center;
 }
 
-#menu p{color: white;
+#menu p{color: black;
+    text-align: center;
 
 }
 
